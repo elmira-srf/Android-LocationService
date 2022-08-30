@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.databinding:viewbinding:7.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/0537c7ea2996e4e80e79e88b219c3c22/transformed/viewbinding-7.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/7a14b651fa6d80f9bfa00f0dfe2adc04/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/elmirasarrafi/.gradle/caches/transforms-3/5e59da9d10208552f786852ef1c0d340/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/f3038097537f32ecb3a9d8447f6e6a00/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1ba1feb76997bf25417793922aa123b3/transformed/play-services-location-19.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/1f926cf06628eaa1e4a898ea976e5c0a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/4d35371449d61ca59a58428195c41578/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/ab4c6f45f96d1d28571bc1cf8763a88e/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/elmirasarrafi/.gradle/caches/transforms-3/6598fd7bf0a6c5883f942ca763f7fdcf/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/elmirasarrafi/.gradle/caches/transforms-3/c17f20be51b7f7350a26cc4356a825e7/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/614de785eb678cfa352fe10c170afe37/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/d7f8a626f4c2d661cc4624e466ae84e3/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/7065980aedccfd08ec0b20362f685a7c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb411a4d4a5a7d56f7a39d9b8373e380/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/77e75c0c214f64351203a7a11a98c669/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a166c13b6f3dded2744e03e2fa20971a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/fcb09d9a7da9846be1bf7683091e6fec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/1a54f6debe697da824a613f99e54253c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/b313a3ef4d8f288a38f04c082b876a19/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/0f74f00eaac16d6163a675b2cc01644c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5243446ccd909586c24473b51f75f790/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/8429c46eb3ed11ee98b4264c5e8d6b55/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/136fc2cd432bf4a10b387eb9810ad8b5/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5baff365a97d2c6d520c7f687d9b63d4/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5f2970bff463a9ea0b98acba755d5673/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1423e770262ab882bc731959557da7db/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/c26c71cd0a446eba8c98a5adce925b70/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/0ddcfe231ff16be599ee2aed6b43001b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/241d86309c851b7162d9b48c2d63886c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/5fd1762403ffb60f4521121dedccd3f0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/3910e867efa2f819d99cb4f775ac318c/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/43676be5ad37e04139416ca52eb83925/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/a7e2b00da3a41fdd5a4b7e80e7bf0a31/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/45d9a0c76d64de847a48df658092ae84/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/bbb5c84e2bddab212d47c30103daed76/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/008f994df7c89a0cf5df5f0900c3675a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/8fdd67ba9828943ec22e06a53657fb24/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/db5ac1403fbaf44bc52e3997cbd9fc6c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/da4a8fd8305fa830b475c667828d5e75/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/0749c21fec5fb57028ad0198527f2387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:8:5-44:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/7a14b651fa6d80f9bfa00f0dfe2adc04/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/7a14b651fa6d80f9bfa00f0dfe2adc04/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/elmirasarrafi/.gradle/caches/transforms-3/5e59da9d10208552f786852ef1c0d340/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/elmirasarrafi/.gradle/caches/transforms-3/5e59da9d10208552f786852ef1c0d340/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1ba1feb76997bf25417793922aa123b3/transformed/play-services-location-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1ba1feb76997bf25417793922aa123b3/transformed/play-services-location-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/4d35371449d61ca59a58428195c41578/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/4d35371449d61ca59a58428195c41578/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/ab4c6f45f96d1d28571bc1cf8763a88e/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/ab4c6f45f96d1d28571bc1cf8763a88e/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5baff365a97d2c6d520c7f687d9b63d4/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5baff365a97d2c6d520c7f687d9b63d4/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/5fd1762403ffb60f4521121dedccd3f0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/5fd1762403ffb60f4521121dedccd3f0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5baff365a97d2c6d520c7f687d9b63d4/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:14:9-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:27:9-29:71
+	android:value
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:29:13-68
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:28:13-58
+activity#com.jk.locationservicesdemo.MapsActivity
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:34:13-56
+	android:exported
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.jk.locationservicesdemo.MainActivity
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:exported
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/0537c7ea2996e4e80e79e88b219c3c22/transformed/viewbinding-7.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/0537c7ea2996e4e80e79e88b219c3c22/transformed/viewbinding-7.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/7a14b651fa6d80f9bfa00f0dfe2adc04/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/7a14b651fa6d80f9bfa00f0dfe2adc04/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/elmirasarrafi/.gradle/caches/transforms-3/5e59da9d10208552f786852ef1c0d340/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/elmirasarrafi/.gradle/caches/transforms-3/5e59da9d10208552f786852ef1c0d340/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/f3038097537f32ecb3a9d8447f6e6a00/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/f3038097537f32ecb3a9d8447f6e6a00/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1ba1feb76997bf25417793922aa123b3/transformed/play-services-location-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1ba1feb76997bf25417793922aa123b3/transformed/play-services-location-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/1f926cf06628eaa1e4a898ea976e5c0a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/1f926cf06628eaa1e4a898ea976e5c0a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/4d35371449d61ca59a58428195c41578/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/4d35371449d61ca59a58428195c41578/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/ab4c6f45f96d1d28571bc1cf8763a88e/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/ab4c6f45f96d1d28571bc1cf8763a88e/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/elmirasarrafi/.gradle/caches/transforms-3/6598fd7bf0a6c5883f942ca763f7fdcf/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/elmirasarrafi/.gradle/caches/transforms-3/6598fd7bf0a6c5883f942ca763f7fdcf/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/elmirasarrafi/.gradle/caches/transforms-3/c17f20be51b7f7350a26cc4356a825e7/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/elmirasarrafi/.gradle/caches/transforms-3/c17f20be51b7f7350a26cc4356a825e7/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/614de785eb678cfa352fe10c170afe37/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/614de785eb678cfa352fe10c170afe37/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/d7f8a626f4c2d661cc4624e466ae84e3/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/d7f8a626f4c2d661cc4624e466ae84e3/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/7065980aedccfd08ec0b20362f685a7c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/7065980aedccfd08ec0b20362f685a7c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb411a4d4a5a7d56f7a39d9b8373e380/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb411a4d4a5a7d56f7a39d9b8373e380/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/77e75c0c214f64351203a7a11a98c669/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/77e75c0c214f64351203a7a11a98c669/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a166c13b6f3dded2744e03e2fa20971a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a166c13b6f3dded2744e03e2fa20971a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/fcb09d9a7da9846be1bf7683091e6fec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/fcb09d9a7da9846be1bf7683091e6fec/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/1a54f6debe697da824a613f99e54253c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/1a54f6debe697da824a613f99e54253c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/b313a3ef4d8f288a38f04c082b876a19/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/b313a3ef4d8f288a38f04c082b876a19/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/0f74f00eaac16d6163a675b2cc01644c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/0f74f00eaac16d6163a675b2cc01644c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5243446ccd909586c24473b51f75f790/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5243446ccd909586c24473b51f75f790/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/8429c46eb3ed11ee98b4264c5e8d6b55/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/8429c46eb3ed11ee98b4264c5e8d6b55/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/136fc2cd432bf4a10b387eb9810ad8b5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/136fc2cd432bf4a10b387eb9810ad8b5/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5baff365a97d2c6d520c7f687d9b63d4/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5baff365a97d2c6d520c7f687d9b63d4/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5f2970bff463a9ea0b98acba755d5673/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/5f2970bff463a9ea0b98acba755d5673/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1423e770262ab882bc731959557da7db/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/1423e770262ab882bc731959557da7db/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/c26c71cd0a446eba8c98a5adce925b70/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/c26c71cd0a446eba8c98a5adce925b70/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/0ddcfe231ff16be599ee2aed6b43001b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/0ddcfe231ff16be599ee2aed6b43001b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/241d86309c851b7162d9b48c2d63886c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/241d86309c851b7162d9b48c2d63886c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/5fd1762403ffb60f4521121dedccd3f0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/5fd1762403ffb60f4521121dedccd3f0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/3910e867efa2f819d99cb4f775ac318c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/3910e867efa2f819d99cb4f775ac318c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/43676be5ad37e04139416ca52eb83925/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/43676be5ad37e04139416ca52eb83925/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/a7e2b00da3a41fdd5a4b7e80e7bf0a31/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/a7e2b00da3a41fdd5a4b7e80e7bf0a31/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/45d9a0c76d64de847a48df658092ae84/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/45d9a0c76d64de847a48df658092ae84/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/bbb5c84e2bddab212d47c30103daed76/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/bbb5c84e2bddab212d47c30103daed76/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/008f994df7c89a0cf5df5f0900c3675a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/008f994df7c89a0cf5df5f0900c3675a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/8fdd67ba9828943ec22e06a53657fb24/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/8fdd67ba9828943ec22e06a53657fb24/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/db5ac1403fbaf44bc52e3997cbd9fc6c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/db5ac1403fbaf44bc52e3997cbd9fc6c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/da4a8fd8305fa830b475c667828d5e75/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/da4a8fd8305fa830b475c667828d5e75/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/0749c21fec5fb57028ad0198527f2387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/0749c21fec5fb57028ad0198527f2387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elmirasarrafi/AndroidStudioProjects/Location Services 2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/elmirasarrafi/.gradle/caches/transforms-3/b5c6d03a4fd06d8cbffeea4df03ee9e3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/elmirasarrafi/.gradle/caches/transforms-3/cb544ab4fb1f6cc4b5dbb48bc8121756/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/622cf9a6a14beb53793344c58b8f2f84/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/32a881bcb19bf36730f732dded05ffa3/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/a4c63e0687b55c2d249867be327a5c20/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/elmirasarrafi/.gradle/caches/transforms-3/28eb8c04a84c08b31f51c5438e017888/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
